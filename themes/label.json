@@ -1,0 +1,25 @@
+{
+    "label":
+    {
+        "colours":
+        {
+            "normal_text": "#B90A06,#FF4BA8,120",
+            "text_shadow": "#B90A06"
+        },
+        "font":
+         {
+             "name": "04B30",
+             "size": "100",
+             "bold": "0",
+             "italic": "0",
+             "regular_path": "fonts/04B30.ttf"
+         },
+        "misc":
+         {
+	     "dark_bg": "0",
+             "text_shadow": "1",
+             "text_shadow_size": "4",
+             "text_shadow_offset": "10.0,5.0"
+         }
+    }
+}
