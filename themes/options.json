@@ -1,0 +1,156 @@
+{
+    "horizontal_slider":
+    {
+        "colours":
+         {
+             "normal_border": "#F1C641,#FFF97E,0",
+             "dark_bg": "#FE001B,#b31217,20"
+         },
+         "misc":
+         {
+             "shape": "rounded_rectangle",
+             "shape_corner_radius": "6",
+             "border_width": "2",
+             "shadow_width": "2",
+             "enable_arrow_buttons": "0"
+         }
+    },
+     "horizontal_slider.#sliding_button":
+     {
+         "colours":
+         {
+            "normal_bg": "#FFF97E",        
+	        "hovered_bg": "#F1C641",
+             "disabled_bg": "#F1C641",
+             "selected_bg": "#F1C641",
+             "active_bg": "#F1C641"
+         }
+     },
+     "drop_down_menu":
+     {
+         "misc":
+         {
+             "expand_direction": "down",
+             "shape": "rounded_rectangle",
+             "shape_corner_radius": "6",
+             "border_width": "2",
+             "shadow_width": "2"
+         },
+
+         "colours":
+         {
+             "normal_border": "#F1C641,#FFF97E,0",
+             "hovered_border": "#F1C641",
+             "disabled_border": "#F1C641",
+             "selected_border": "#F1C641",
+             "active_border": "#F1C641",
+             "dark_bg": "#FE001B,#b31217,20",
+             "normal_bg": "#FE001B,#b31217,20",
+             "selected_bg": "#FE001B,#b31217,20",
+             "active_bg": "#FE001B,#b31217,20",
+             "hovered_bg": "#b31217",
+             "disabled_bg": "#b31217",
+             "normal_text": "#FFFFFF"
+         }
+     },
+     "drop_down_menu.#selected_option":
+     {
+         "misc":
+         {
+            "border_width": "0"
+         },
+         "colours":
+         {
+             "normal_border": "#F1C641,#FFF97E,0",
+             "hovered_border": "#F1C641",
+             "disabled_border": "#F1C641",
+             "selected_border": "#F1C641",
+             "active_border": "#F1C641",
+             "dark_bg": "#FE001B,#b31217,20",
+             "normal_bg": "#FE001B,#b31217,20",
+             "selected_bg": "#FE001B,#b31217,20",
+             "active_bg": "#FE001B,#b31217,20",
+             "hovered_bg": "#b31217",
+             "disabled_bg": "#b31217",
+             "normal_text": "#FFFFFF"
+         },
+         "font":
+         {
+             "name": "pixeboy",
+             "size": "18",
+             "bold": "0",
+             "italic": "0",
+             "regular_path": "assets/fonts/Pixeboy.ttf"
+         }
+     },
+     "drop_down_menu.#drop_down_options_list":
+     {
+        "colours":
+        {
+            "normal_border": "#F1C641,#FFF97E,0",
+            "hovered_border": "#F1C641",
+            "disabled_border": "#F1C641",
+            "selected_border": "#F1C641",
+            "active_border": "#F1C641",
+            "dark_bg": "#FE001B,#b31217,20",
+            "normal_bg": "#FE001B,#b31217,20",
+            "selected_bg": "#FE001B,#b31217,20",
+            "active_bg": "#FE001B,#b31217,20",
+            "disabled_bg": "#b31217",
+            "hovered_bg": "#b31217",
+            "normal_text": "#FFFFFF"
+        },
+        "misc":
+        {
+           "shape": "rounded_rectangle",
+           "shape_corner_radius": "1"
+        }
+     },
+     "drop_down_menu.#drop_down_options_list.button":
+     {
+        "misc":
+        {
+           "border_width": "0"
+        },
+        "colours":
+        {
+            "normal_border": "#F1C641,#FFF97E,0",
+            "hovered_border": "#F1C641",
+            "disabled_border": "#F1C641",
+            "selected_border": "#F1C641",
+            "active_border": "#F1C641",
+            "dark_bg": "#FE001B,#b31217,20",
+            "normal_bg": "#FE001B,#b31217,20",
+            "selected_bg": "#FE001B,#b31217,20",
+            "active_bg": "#FE001B,#b31217,20",
+            "hovered_bg": "#b31217",
+            "disabled_bg": "#b31217",
+            "normal_text": "#FFFFFF"
+        },
+        "font":
+        {
+            "name": "pixeboy",
+            "size": "15",
+            "bold": "0",
+            "italic": "0",
+            "regular_path": "assets/fonts/Pixeboy.ttf"
+        }
+    },
+    "drop_down_menu.#expand_button":
+    {
+        "colours":
+        {
+           "normal_bg": "#FFF97E",        
+           "hovered_bg": "#F1C641",
+            "disabled_bg": "#F1C641",
+            "selected_bg": "#F1C641",
+            "active_bg": "#F1C641",
+            "normal_text": "#F1C641",
+            "hovered_text": "#FFFFFF"
+        },
+        "misc":
+        {
+           "shape": "rectangle"
+        }
+    }
+}

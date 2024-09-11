@@ -1,0 +1,49 @@
+{
+     "button":
+     {
+         "colours":
+         {
+             "normal_bg": "#EEE2EF",
+             "hovered_bg": "#89D2D9",
+             "selected_bg": "#25292e",
+             "active_bg": "#8DF8FE",
+             "normal_text": "#E45DA7",
+             "hovered_text": "#E55A79",
+             "selected_text": "#F498A0",
+             "active_text": "#6d736f",
+             "normal_border": "#FDA4C3",
+             "hovered_border": "#21C8F6",
+             "disabled_border": "#21C8F6",
+             "selected_border": "#21C8F6",
+             "active_border": "#21C8F6"
+         },
+         "font":
+         {
+             "name": "chubbychoo",
+             "size": "40",
+             "bold": "0",
+             "regular_resource": {
+                  "regular_path": "ChubbyChoo-Regular.ttf"
+             },
+             "bold_resource": {
+		 "regular_path": "ChubbyChoo-SemiBold.ttf"
+             }
+         },
+
+         "misc":
+         {
+             "shape": "rounded_rectangle",
+             "shape_corner_radius": "6",
+             "border_width": "2",
+             "shadow_width": "2",
+             "text_horiz_alignment": "left",
+             "text_vert_alignment": "top",
+             "text_horiz_alignment_padding": "10",
+             "text_vert_alignment_padding": "5",
+             "state_transitions": {
+                 "normal_hovered": "0.5",
+                 "hovered_normal": "0.5"
+             }
+         }
+     }
+ }
