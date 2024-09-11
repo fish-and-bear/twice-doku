@@ -1,0 +1,4 @@
+# Ignore the build directory
+TWICE-Doku!/build
+TWICE-Doku!/dist
+TWICE-Doku!/__pycache__

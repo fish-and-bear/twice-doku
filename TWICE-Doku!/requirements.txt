@@ -1,0 +1,4 @@
+pygame_gui
+pygame
+aiofiles
+pygbag
